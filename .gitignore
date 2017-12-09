@@ -1,1 +1,15 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/inspectionProfiles/
+my-site/.editorconfig
+my-site/.eslintignore
+my-site/.eslintrc
+my-site/.gitignore
+my-site/Procfile
+my-site/keystone.js
+my-site/models/
+my-site/package-lock.json
+my-site/package.json
+my-site/public/
+my-site/routes/
+my-site/templates/
+my-site/updates/
